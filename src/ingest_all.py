@@ -110,8 +110,8 @@ def main():
     # Create data directory
     Path("data/raw").mkdir(parents=True, exist_ok=True)
     
-    # Ingest data for each year
-    years = [2022, 2023, 2024, 2025]
+    # Ingest data for each year (use years with available data)
+    years = [2025]
     
     for year in years:
         try:

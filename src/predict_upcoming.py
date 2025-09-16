@@ -124,7 +124,7 @@ def main():
     """Main prediction function"""
     try:
         # Predict upcoming race
-        results = predict_race("Singapore Grand Prix 2025")
+        results = predict_race("Azerbaijan Grand Prix 2025")
         
         logger.info("Prediction complete!")
         
