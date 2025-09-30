@@ -123,9 +123,9 @@ SINGAPORE GRAND PRIX 2025 - RACE PREDICTION
 13. TSU 
 14. LAW 
 15. HUL 
-16. MAG 
+16. ANT 
 17. BOR 
-18. ZHO 
+18. HAD 
 19. BEA 
 20. SAI 
 ```
@@ -172,16 +172,16 @@ python src/predict_upcoming.py
 
 ## Current F1 2025 Drivers
 
-- **Red Bull**: VER, PER
-- **Ferrari**: LEC, SAI
-- **Mercedes**: HAM, RUS
+- **Red Bull**: VER, TSU
+- **Ferrari**: LEC, HAM
+- **Mercedes**: ANT, RUS
 - **McLaren**: NOR, PIA
 - **Aston Martin**: STR, ALO
-- **Alpine**: GAS, OCO
-- **Williams**: ALB, COL
-- **AlphaTauri**: TSU, LAW
-- **Haas**: HUL, MAG
-- **Sauber**: BOR, ZHO
+- **Alpine**: GAS, COL
+- **Williams**: ALB, SAI
+- **AlphaTauri**: HAD, LAW
+- **Haas**: OCO, BEA
+- **Sauber**: BOR, HUL
 
 ## Troubleshooting
 
